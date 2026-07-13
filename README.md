@@ -30,7 +30,7 @@ En ningún caso el programa lanza una excepción: siempre devuelve un resultado 
 ## Cómo ejecutarlo
 
 ```bash
-python trabajo_con_ia.py
+buscador_rutas.py
 ```
 
 Requiere Python 3. Sin dependencias externas.
